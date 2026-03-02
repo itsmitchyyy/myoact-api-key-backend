@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+      "target": "ES2017",
+      "module": "commonjs",
+      "outDir": "./lambda_layer_dist/nodejs",
+      "rootDir": "./",
+      "baseUrl": "./",
+      "esModuleInterop": true
+    },
+    "exclude": ["**/*.spec.ts", "src/application"]
+  }
+  
